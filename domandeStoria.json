@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Un periodo di tensione tra USA e URSS senza combattimenti diretti",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Una guerra combattuta tra USA e URSS",
+        "Una guerra civile in Germania",
+        "Un conflitto tra Cina e URSS"
+      ],
+      "question": "Che cos era la Guerra Fredda?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Capitalismo e democrazia per gli USA, comunismo per l URSS",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Monarchia e repubblica",
+        "Capitalismo per entrambi",
+        "Comunismo per entrambi"
+      ],
+      "question": "Quali erano le ideologie opposte di USA e URSS?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Perche ciascun blocco temeva l altro e voleva diffondere la propria ideologia",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Perche volevano spartirsi la Germania",
+        "Per via di disaccordi sul petrolio",
+        "Perche erano alleati della Germania"
+      ],
+      "question": "Perche le ideologie opposte aiutarono a causare la Guerra Fredda?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Alleanza tra USA, URSS e Gran Bretagna contro la Germania nazista",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Accordo economico tra i paesi europei",
+        "Alleanza tra Francia e Italia",
+        "Un trattato firmato dopo la guerra"
+      ],
+      "question": "Cosa era la Grande Alleanza?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Dividere la Germania, aiutare contro il Giappone, creare le Nazioni Unite",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Pianificare un attacco all Italia",
+        "Ritirarsi dalla guerra",
+        "Formare un nuovo impero europeo"
+      ],
+      "question": "Cosa fu deciso alla Conferenza di Teheran nel 1943?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Febbraio 1945",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Giugno 1944",
+        "Dicembre 1945",
+        "Agosto 1943"
+      ],
+      "question": "Quando si tenne la Conferenza di Yalta?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Dividere la Germania e permettere elezioni libere in Polonia",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Invadere l Italia",
+        "Creare la NATO",
+        "Unificare l Europa"
+      ],
+      "question": "Cosa fu deciso alla Conferenza di Yalta?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Perche l URSS non permise elezioni libere e gli USA usarono la bomba atomica",
+      "difficulty": "hard",
+      "incorrect_answers": [
+        "Perche la Germania si ribello",
+        "Per via della crisi del petrolio",
+        "Perche la Cina intervenne"
+      ],
+      "question": "Perche ci furono disaccordi alla Conferenza di Potsdam?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Creare sospetti e paura tra USA e URSS",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Concludere un trattato di pace",
+        "Promuovere la cooperazione",
+        "Aumentare il commercio"
+      ],
+      "question": "Che effetto ebbero i telegrammi Long e Novikov?",
+      "type": "multiple"
+    },
+    {
+      "category": "History: Cold War",
+      "correct_answer": "Aiutare i paesi europei a non diventare comunisti",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Punire la Germania",
+        "Creare un esercito europeo",
+        "Unificare le Americhe"
+      ],
+      "question": "Perche fu creato il Piano Marshall?",
+      "type": "multiple"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "request.getParameter()",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "request.getInputStream()",
+        "request.getSession()",
+        "request.getAttribute()"
+      ],
+      "question": "Quale metodo si usa per ottenere il valore di un parametro inviato tramite form HTML in una servlet?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "request.setAttribute()",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "response.setAttribute()",
+        "session.setAttribute()",
+        "request.addParameter()"
+      ],
+      "question": "Quale metodo permette di passare dati dalla servlet alla JSP tramite forwarding?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "HttpSession",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "ServletContext",
+        "HttpCookie",
+        "SessionManager"
+      ],
+      "question": "Quale oggetto viene usato per gestire la sessione di un utente in una servlet?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "MD5",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "SHA-512",
+        "SHA-1",
+        "Base64"
+      ],
+      "question": "Quale algoritmo di hashing viene utilizzato per salvare le password nel database dell applicazione descritta?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "request.getRemoteAddr()",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "request.getLocalAddr()",
+        "request.getRemoteHost()",
+        "request.getIPAddress()"
+      ],
+      "question": "Quale metodo permette di ottenere l indirizzo IP del client in una servlet?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "RequestDispatcher.forward()",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "response.redirect()",
+        "response.forward()",
+        "Dispatcher.send()"
+      ],
+      "question": "Quale metodo viene usato per effettuare il forwarding verso una pagina JSP?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "application/json",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "text/html",
+        "application/xml",
+        "multipart/form-data"
+      ],
+      "question": "Qual è il content-type corretto per restituire una risposta JSON da una servlet?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "Servlet che risponde a /json",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Pagina JSP con JSTL",
+        "JavaScript lato client",
+        "JDBC Driver"
+      ],
+      "question": "Quale componente dell applicazione fornisce i dati in formato JSON per il contatore visite?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "Bootstrap",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "jQueryUI",
+        "FontAwesome",
+        "Tailwind"
+      ],
+      "question": "Quale framework CSS viene utilizzato per migliorare l aspetto grafico delle pagine JSP nell applicazione?",
+      "type": "multiple"
+    },
+    {
+      "category": "Web: Java Servlets",
+      "correct_answer": "@WebServlet(\"/App/*\")",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "@WebServlet(\"/home\")",
+        "@WebServlet(\"*.jsp\")",
+        "@WebServlet(\"/controller\")"
+      ],
+      "question": "Quale annotazione permette di configurare una servlet come router per tutte le richieste relative all applicazione?",
+      "type": "multiple"
+    }
+  ]
+}

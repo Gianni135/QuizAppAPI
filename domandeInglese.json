@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Literature: George Orwell",
+      "correct_answer": "1984",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Animal City",
+        "Brave New World",
+        "The Trial"
+      ],
+      "question": "Which novel by George Orwell depicts a dystopian future ruled by Big Brother?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: George Orwell",
+      "correct_answer": "Animal Farm",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "The Jungle",
+        "Lord of the Flies",
+        "Catch 22"
+      ],
+      "question": "Which George Orwell novel is an allegory about the Russian Revolution using farm animals?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: George Orwell",
+      "correct_answer": "Newspeak",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Doublespeak",
+        "Newtongue",
+        "Truthspeak"
+      ],
+      "question": "What is the name of the official language invented in Orwell s 1984?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: George Orwell",
+      "correct_answer": "Room 101",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Sector 9",
+        "Zone Alpha",
+        "Cell 42"
+      ],
+      "question": "In 1984, what is the name of the torture chamber where prisoners face their worst fear?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: Oscar Wilde",
+      "correct_answer": "The Picture of Dorian Gray",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Dracula",
+        "Frankenstein",
+        "The Turn of the Screw"
+      ],
+      "question": "Which is the only novel written by Oscar Wilde?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: Oscar Wilde",
+      "correct_answer": "The Importance of Being Earnest",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Pygmalion",
+        "Waiting for Godot",
+        "A Doll s House"
+      ],
+      "question": "Which Oscar Wilde play is a satire of Victorian society and features mistaken identity?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: Oscar Wilde",
+      "correct_answer": "Ireland",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "England",
+        "Scotland",
+        "Wales"
+      ],
+      "question": "In which country was Oscar Wilde born?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: George Orwell",
+      "correct_answer": "Eric Arthur Blair",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "George Ericson",
+        "Arthur Orwell",
+        "Eric Wilde"
+      ],
+      "question": "What was George Orwell s real name?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: Oscar Wilde",
+      "correct_answer": "Aestheticism",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "Existentialism",
+        "Modernism",
+        "Romanticism"
+      ],
+      "question": "Which literary movement is Oscar Wilde most associated with?",
+      "type": "multiple"
+    },
+    {
+      "category": "Literature: George Orwell",
+      "correct_answer": "To warn about totalitarianism and loss of freedom",
+      "difficulty": "medium",
+      "incorrect_answers": [
+        "To promote communism",
+        "To write a love story",
+        "To describe post war Britain"
+      ],
+      "question": "What was George Orwell s main purpose in writing 1984?",
+      "type": "multiple"
+    }
+  ]
+}
